@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of tapao/custom-landing-page.** Not for installation: use [Packagist](https://packagist.org/packages/tapao/custom-landing-page) or the [upstream repository](https://github.com/Tapao-NonSen/Custom-Landing-Page).
 
-**0** versions archived · Latest: [`2.1.6`](https://github.com/flarchive/tapao-custom-landing-page/tree/archive/v2.1.6) · Flarum: `^2.0`
+**2** versions archived · Latest: [`2.1.6`](https://github.com/flarchive/tapao-custom-landing-page/tree/archive/v2.1.6) · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.4` | 2026-06-27 | `^1.8 || ^2.0` | [Browse](https://github.com/flarchive/tapao-custom-landing-page/tree/archive/v1.0.4) |
+| `2.1.6` | 2026-07-05 | `^2.0` | [Browse](https://github.com/flarchive/tapao-custom-landing-page/tree/archive/v2.1.6) |
 
 Catalog entry: [packages/tapao-custom-landing-page.json](https://github.com/flarchive/archive-index/blob/main/packages/tapao-custom-landing-page.json)
 
